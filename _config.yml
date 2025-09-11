@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4483.jpeg"
+  avatar           : "/images/IMG_4483.jpeg"
   name             : "Karen Seunsom"
   pronouns         : # example: "she/her"  
   bio              : "CS Student"
